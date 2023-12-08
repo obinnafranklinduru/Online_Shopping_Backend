@@ -1,7 +1,7 @@
 {
   "name": "online_shopping_backend",
   "version": "1.0.0",
-  "description": "An Online Shopping Backend implemented in ES6, following a Monolithic architecture for streamlined development and maintenance.",
+  "description": "An Online Shopping Backend implemented in commonjs, following a Monolithic architecture for streamlined development and maintenance.",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
